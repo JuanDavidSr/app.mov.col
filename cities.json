@@ -1,0 +1,562 @@
+{
+    "municipalities": [
+      {
+        "id": 1,
+        "cod_municipality": 1,
+        "name_municipality": "BOGOTÁ",
+        "department": {
+          "cod_department": 11,
+          "name_department": "D. C. Santa Fe de Bogotá"
+        }
+      },
+      {
+        "id": 2,
+        "cod_municipality": 1,
+        "name_municipality": "MEDELLÍN",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 3,
+        "cod_municipality": 266,
+        "name_municipality": "ENVIGADO",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 4,
+        "cod_municipality": 88,
+        "name_municipality": "BELLO",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 5,
+        "cod_municipality": 360,
+        "name_municipality": "ITAGUI",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 6,
+        "cod_municipality": 45,
+        "name_municipality": "APARTADÓ",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 7,
+        "cod_municipality": 837,
+        "name_municipality": "TURBO",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 8,
+        "cod_municipality": 154,
+        "name_municipality": "CAUCASIA",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 9,
+        "cod_municipality": 615,
+        "name_municipality": "RIONEGRO",
+        "department": {
+          "cod_department": 5,
+          "name_department": "Antioquia"
+        }
+      },
+      {
+        "id": 10,
+        "cod_municipality": 1,
+        "name_municipality": "BARRANQUILLA",
+        "department": {
+          "cod_department": 8,
+          "name_department": "Atlantico"
+        }
+      },
+      {
+        "id": 11,
+        "cod_municipality": 433,
+        "name_municipality": "MALAMBO",
+        "department": {
+          "cod_department": 8,
+          "name_department": "Atlantico"
+        }
+      },
+      {
+        "id": 12,
+        "cod_municipality": 758,
+        "name_municipality": "SOLEDAD",
+        "department": {
+          "cod_department": 8,
+          "name_department": "Atlantico"
+        }
+      },
+      {
+        "id": 13,
+        "cod_municipality": 1,
+        "name_municipality": "CARTAGENA",
+        "department": {
+          "cod_department": 13,
+          "name_department": "Bolivar"
+        }
+      },
+      {
+        "id": 14,
+        "cod_municipality": 430,
+        "name_municipality": "MAGANGUÉ",
+        "department": {
+          "cod_department": 13,
+          "name_department": "Bolivar"
+        }
+      },
+      {
+        "id": 15,
+        "cod_municipality": 1,
+        "name_municipality": "TUNJA",
+        "department": {
+          "cod_department": 15,
+          "name_department": "Boyaca"
+        }
+      },
+      {
+        "id": 16,
+        "cod_municipality": 759,
+        "name_municipality": "SOGAMOSO",
+        "department": {
+          "cod_department": 15,
+          "name_department": "Boyaca"
+        }
+      },
+      {
+        "id": 17,
+        "cod_municipality": 238,
+        "name_municipality": "DUITAMA",
+        "department": {
+          "cod_department": 15,
+          "name_department": "Boyaca"
+        }
+      },
+      {
+        "id": 18,
+        "cod_municipality": 1,
+        "name_municipality": "MANIZALES",
+        "department": {
+          "cod_department": 17,
+          "name_department": "Caldas"
+        }
+      },
+      {
+        "id": 19,
+        "cod_municipality": 1,
+        "name_municipality": "FLORENCIA",
+        "department": {
+          "cod_department": 18,
+          "name_department": "Caqueta"
+        }
+      },
+      {
+        "id": 20,
+        "cod_municipality": 1,
+        "name_municipality": "YOPAL",
+        "department": {
+          "cod_department": 85,
+          "name_department": "Casanare"
+        }
+      },
+      {
+        "id": 21,
+        "cod_municipality": 1,
+        "name_municipality": "POPAYÁN",
+        "department": {
+          "cod_department": 19,
+          "name_department": "Cauca"
+        }
+      },
+      {
+        "id": 22,
+        "cod_municipality": 1,
+        "name_municipality": "VALLEDUPAR",
+        "department": {
+          "cod_department": 20,
+          "name_department": "Cesar"
+        }
+      },
+      {
+        "id": 23,
+        "cod_municipality": 1,
+        "name_municipality": "QUIBDÓ",
+        "department": {
+          "cod_department": 27,
+          "name_department": "Choco"
+        }
+      },
+      {
+        "id": 24,
+        "cod_municipality": 1,
+        "name_municipality": "MONTERÍA",
+        "department": {
+          "cod_department": 23,
+          "name_department": "Cordova"
+        }
+      },
+      {
+        "id": 25,
+        "cod_municipality": 417,
+        "name_municipality": "LORICA",
+        "department": {
+          "cod_department": 23,
+          "name_department": "Cordova"
+        }
+      },
+      {
+        "id": 26,
+        "cod_municipality": 754,
+        "name_municipality": "SOACHA",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 27,
+        "cod_municipality": 290,
+        "name_municipality": "FUSAGASUGÁ",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 28,
+        "cod_municipality": 296,
+        "name_municipality": "FACATATIVÁ",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 29,
+        "cod_municipality": 175,
+        "name_municipality": "CHÍA",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 30,
+        "cod_municipality": 899,
+        "name_municipality": "ZIPAQUIRÁ",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 31,
+        "cod_municipality": 307,
+        "name_municipality": "GIRARDOT",
+        "department": {
+          "cod_department": 25,
+          "name_department": "Cundinamarca"
+        }
+      },
+      {
+        "id": 32,
+        "cod_municipality": 1,
+        "name_municipality": "NEIVA",
+        "department": {
+          "cod_department": 41,
+          "name_department": "Huila"
+        }
+      },
+      {
+        "id": 33,
+        "cod_municipality": 551,
+        "name_municipality": "PITALITO",
+        "department": {
+          "cod_department": 41,
+          "name_department": "Huila"
+        }
+      },
+      {
+        "id": 34,
+        "cod_municipality": 1,
+        "name_municipality": "RIOHACHA",
+        "department": {
+          "cod_department": 44,
+          "name_department": "La Guajira"
+        }
+      },
+      {
+        "id": 35,
+        "cod_municipality": 847,
+        "name_municipality": "URIBIA",
+        "department": {
+          "cod_department": 44,
+          "name_department": "La Guajira"
+        }
+      },
+      {
+        "id": 36,
+        "cod_municipality": 430,
+        "name_municipality": "MAICAO",
+        "department": {
+          "cod_department": 44,
+          "name_department": "La Guajira"
+        }
+      },
+      {
+        "id": 37,
+        "cod_municipality": 1,
+        "name_municipality": "SANTA MARTA",
+        "department": {
+          "cod_department": 47,
+          "name_department": "Magdalena"
+        }
+      },
+      {
+        "id": 38,
+        "cod_municipality": 189,
+        "name_municipality": "CIÉNAGA",
+        "department": {
+          "cod_department": 47,
+          "name_department": "Magdalena"
+        }
+      },
+      {
+        "id": 39,
+        "cod_municipality": 1,
+        "name_municipality": "VILLAVICENCIO",
+        "department": {
+          "cod_department": 50,
+          "name_department": "Meta"
+        }
+      },
+      {
+        "id": 40,
+        "cod_municipality": 1,
+        "name_municipality": "PASTO",
+        "department": {
+          "cod_department": 52,
+          "name_department": "Nariño"
+        }
+      },
+      {
+        "id": 41,
+        "cod_municipality": 835,
+        "name_municipality": "TUMACO",
+        "department": {
+          "cod_department": 52,
+          "name_department": "Nariño"
+        }
+      },
+      {
+        "id": 42,
+        "cod_municipality": 356,
+        "name_municipality": "IPIALES",
+        "department": {
+          "cod_department": 52,
+          "name_department": "Nariño"
+        }
+      },
+      {
+        "id": 43,
+        "cod_municipality": 1,
+        "name_municipality": "CÚCUTA",
+        "department": {
+          "cod_department": 54,
+          "name_department": "Norte de Santander"
+        }
+      },
+      {
+        "id": 44,
+        "cod_municipality": 498,
+        "name_municipality": "OCAÑA",
+        "department": {
+          "cod_department": 54,
+          "name_department": "Norte de Santander"
+        }
+      },
+      {
+        "id": 45,
+        "cod_municipality": 1,
+        "name_municipality": "ARMENIA",
+        "department": {
+          "cod_department": 63,
+          "name_department": "Quindio"
+        }
+      },
+      {
+        "id": 46,
+        "cod_municipality": 1,
+        "name_municipality": "PEREIRA",
+        "department": {
+          "cod_department": 66,
+          "name_department": "Risaralda"
+        }
+      },
+      {
+        "id": 47,
+        "cod_municipality": 170,
+        "name_municipality": "DOSQUEBRADAS",
+        "department": {
+          "cod_department": 66,
+          "name_department": "Risaralda"
+        }
+      },
+      {
+        "id": 48,
+        "cod_municipality": 1,
+        "name_municipality": "BUCARAMANGA",
+        "department": {
+          "cod_department": 68,
+          "name_department": "Santander"
+        }
+      },
+      {
+        "id": 49,
+        "cod_municipality": 81,
+        "name_municipality": "BARRANCABERMEJA",
+        "department": {
+          "cod_department": 68,
+          "name_department": "Santander"
+        }
+      },
+      {
+        "id": 50,
+        "cod_municipality": 276,
+        "name_municipality": "FLORIDABLANCA",
+        "department": {
+          "cod_department": 68,
+          "name_department": "Santander"
+        }
+      },
+      {
+        "id": 51,
+        "cod_municipality": 307,
+        "name_municipality": "GIRÓN",
+        "department": {
+          "cod_department": 68,
+          "name_department": "Santander"
+        }
+      },
+      {
+        "id": 52,
+        "cod_municipality": 547,
+        "name_municipality": "PIEDECUESTA",
+        "department": {
+          "cod_department": 68,
+          "name_department": "Santander"
+        }
+      },
+      {
+        "id": 53,
+        "cod_municipality": 1,
+        "name_municipality": "SINCELEJO",
+        "department": {
+          "cod_department": 70,
+          "name_department": "Sucre"
+        }
+      },
+      {
+        "id": 54,
+        "cod_municipality": 1,
+        "name_municipality": "IBAGUÉ",
+        "department": {
+          "cod_department": 73,
+          "name_department": "Tolima"
+        }
+      },
+      {
+        "id": 55,
+        "cod_municipality": 1,
+        "name_municipality": "CALI",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 56,
+        "cod_municipality": 109,
+        "name_municipality": "BUENAVENTURA",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 57,
+        "cod_municipality": 520,
+        "name_municipality": "PALMIRA",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 58,
+        "cod_municipality": 834,
+        "name_municipality": "TULUÁ",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 59,
+        "cod_municipality": 147,
+        "name_municipality": "CARTAGO",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 60,
+        "cod_municipality": 364,
+        "name_municipality": "JAMUNDI",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 61,
+        "cod_municipality": 111,
+        "name_municipality": "BUGA",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      },
+      {
+        "id": 62,
+        "cod_municipality": 892,
+        "name_municipality": "YUMBO",
+        "department": {
+          "cod_department": 76,
+          "name_department": "Valle del Cauca"
+        }
+      }
+    ]
+  }
